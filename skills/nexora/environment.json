@@ -1,0 +1,9 @@
+{
+  "environment": "prod",
+  "profile": "prod",
+  "skillName": "nexora",
+  "repository": "https://github.com/terryoyty/nexora-skills.git",
+  "serverOrigin": "https://ai.aukeyit.com",
+  "frontendOrigin": "https://ai.aukeyit.com",
+  "allowHttp": false
+}

@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "environment": "prod",
+  "files": {
+    ".gitattributes": "705fd4d6451a31d36b3df7de96f83f30ac976c9b4a6d1e51671d8e2f33e2d0da",
+    "README.md": "6ebe96f941cbf235ad667465a52bc2160be9f8bf3032d82d06ce62a98603fa7a",
+    "skills/nexora/SKILL.md": "2b02de9e14c8864a087990cbe1f563066179cb8435227c0697c88d63838c1e87",
+    "skills/nexora/assets/nexora-cli-0.3.0.tgz": "6de9aca138517dd42e4083709dfc934aaeb2e8434c38b645b32027d76c442dfc",
+    "skills/nexora/environment.json": "5f305efa26704b13a595c60cbfb815f0f4122790c3611adb00230bba5cf84393",
+    "skills/nexora/references/commands.md": "9f8d003ed33ca6904461f69f8edb5850734d56103901e57261f36bc30c4deb5f",
+    "skills/nexora/references/recovery.md": "ee2f4ddc237070675d4cd76dad58e0522b10e37a852332c803c5afdeee719962",
+    "skills/nexora/references/setup.md": "587395504398ada91f954956cc6e34f5819c9eb430a4dd8d4d319b5943bd3e2d",
+    "skills/nexora/release.json": "7e816e232f59286ff82d384ba8459d760a7dc981dc97e60a28b05a271f577424"
+  }
+}
