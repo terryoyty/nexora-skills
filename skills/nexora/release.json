@@ -2,10 +2,10 @@
   "schemaVersion": 2,
   "name": "nexora",
   "environment": "prod",
-  "releaseId": "0.3.1-4f2457eddf9e",
-  "contentDigest": "4f2457eddf9ed55a257656791e6cc42f451039c5a47ce3e47178c961cbe70a69",
+  "releaseId": "0.3.1-792f2c583f93",
+  "contentDigest": "792f2c583f93fa79d9be8e859a68fe34d53fb5f26b17c326c0024a70271da102",
   "repository": "https://github.com/terryoyty/nexora-skills.git",
-  "ref": "release-0.3.1-4f2457eddf9e",
+  "ref": "release-0.3.1-792f2c583f93",
   "skillPath": "skills/nexora",
   "node": ">=22",
   "cli": {
