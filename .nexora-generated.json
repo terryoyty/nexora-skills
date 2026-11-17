@@ -3,13 +3,13 @@
   "environment": "prod",
   "files": {
     ".gitattributes": "705fd4d6451a31d36b3df7de96f83f30ac976c9b4a6d1e51671d8e2f33e2d0da",
-    "README.md": "b31db7c2f2c20bc4c8351c7bac2caccc2cac32ad0d1fd6ff56b9cfc4f9249e91",
-    "skills/nexora/SKILL.md": "2b02de9e14c8864a087990cbe1f563066179cb8435227c0697c88d63838c1e87",
-    "skills/nexora/assets/nexora-cli-0.3.0.tgz": "ab75d10a65cddf2e6f65856062e73624ce3efa2bd4cd2c21717aff7bbf6b2475",
-    "skills/nexora/environment.json": "5f305efa26704b13a595c60cbfb815f0f4122790c3611adb00230bba5cf84393",
+    "README.md": "e083d07bf9379bdb0b0736eac215c5d70470eace318f26dd3f1e55b83ac71ed7",
+    "skills/nexora/SKILL.md": "aa6f56d03476df0e5b8cc3827f895d2e9e4fcffdc6337a89ec434ee8b72aeff9",
+    "skills/nexora/assets/nexora-cli-0.3.1.tgz": "10e85a053e7b39a793e169d07b6076c7448f699ece68ad98a55ec2a3677d9be5",
+    "skills/nexora/environment.json": "7c6d6359551843cd8a564a2a8599c591d4a01e91d42d70cedae2e62fe92cba8b",
     "skills/nexora/references/commands.md": "9f8d003ed33ca6904461f69f8edb5850734d56103901e57261f36bc30c4deb5f",
     "skills/nexora/references/recovery.md": "ee2f4ddc237070675d4cd76dad58e0522b10e37a852332c803c5afdeee719962",
-    "skills/nexora/references/setup.md": "587395504398ada91f954956cc6e34f5819c9eb430a4dd8d4d319b5943bd3e2d",
-    "skills/nexora/release.json": "fac96ad2c108b011559bd28f3069c94dbba2797483e403a9d0a5a2ac2e116e7e"
+    "skills/nexora/references/setup.md": "36234fee75f00fb0a0e36966f902f26c307afd1983734bfb1f8422590a62ba9c",
+    "skills/nexora/release.json": "e3d20124a648d2102de738a2e97c291fd7f6887225d9a8c16dd9d9aa5ae2570c"
   }
 }
